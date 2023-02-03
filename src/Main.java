@@ -76,7 +76,6 @@ public class Main {
         } else {
             System.out.println("ты можешь найти сидячее место");
         }
-
         int one = 3;
         int two = 5;
         int three = 8;
