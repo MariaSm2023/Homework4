@@ -3,7 +3,6 @@ public class Main {
         int age = 18;
         System.out.println("Тебе 18 лет");
         if (age >= 18) {
-
             System.out.println("Ты совершеннолетний");
         }
         if (age < 18) {
